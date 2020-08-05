@@ -1,12 +1,14 @@
-/*********************************************************************************
-* WEB422 – Assignment 06
-* I declare that this assignment is my own work in accordance with Seneca Academic Policy. No part of this
-* assignment has been copied manually or electronically from any other source (including web sites) or
-* distributed to other students.
-*
-* Name: Kyle Myers      Student ID: 159766179       Date: August. 14, 2020
-*
-********************************************************************************/
+/********************************************************************************* 
+ * WEB422 – Assignment 06 
+ * I declare that this assignment is my own work in accordance with Seneca Academic Policy. No part of this 
+ * assignment has been copied manually or electronically from any other source (including web sites) or 
+ * distributed to other students. 
+ * 
+ * Name: Kyle Myers      Student ID: 159766179      Date: Aug. 5, 2020 
+ *
+ * Online Link: https://stoic-clarke-218a6c.netlify.app
+ * 
+ ********************************************************************************/
 
 import { Component } from '@angular/core';
 
